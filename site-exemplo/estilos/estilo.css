@@ -1,0 +1,22 @@
+p {
+      text-indent: 20px;
+      text-align: justify;
+    }
+    h2 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    table {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th,
+    td {
+      border: 1px solid black;
+      text-align: center;
+      padding: 8px;
+    }
+    tr:nth-child(even) {
+      background-color: black;
+      color: white;
+    }
